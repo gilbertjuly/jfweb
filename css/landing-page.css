@@ -146,14 +146,17 @@ h6 {
     padding: 100px 0;
     color: #f8f8f8;
     /*background: url(../img/iot5.jpg) no-repeat center center;*/
-    background: url(../img/factory2.jpg) no-repeat center center;
+    background: url(../img/background/b24.jpg) ;
     background-size: cover;
 }
 
 .banner h2 {
     margin: 0;
-    text-shadow: 3px 3px 4px rgba(0,0,0,0.6);
-    font-size: 3em;
+    color: rgba(114,179,56,1);
+    /*color: rgba(68,157,68,1);*/
+    /*color: rgba(35,139,222,1);*/
+    text-shadow: 3px 3px 4px rgba(0,0,0,0.8);
+    font-size: 2.5em;
 }
 
 .banner ul {
